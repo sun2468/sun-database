@@ -1,4 +1,2 @@
 我在用心努力的学习git
 我在努力学习python
-今天我又学习了git
-gitgitgit,gogogo.
